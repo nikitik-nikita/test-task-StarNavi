@@ -1,6 +1,6 @@
 # test-task-StarNavi
 
-<b>Usage<b>
+**Usage**
 
 ``npm install`` from root directory to install all dependencies.
 
