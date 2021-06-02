@@ -13,6 +13,7 @@ const useStyles = makeStyles((theme) => ({
   resultPaper: {
     padding: theme.spacing(2),
     marginTop: 10,
+    backgroundColor: '#fbf8e3',
   },
 }));
 
