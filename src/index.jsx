@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-// Containers
+// containers
 import App from './containers/App';
 
 ReactDOM.render(
